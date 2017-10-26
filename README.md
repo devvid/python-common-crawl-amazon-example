@@ -2,7 +2,7 @@
 Amazon PRODUCT FINDER using Python and Commoncrawl dataset
 Scans common crawl infomation for products and
 saves them to Amazon DynomoDB database.
-By David Cedar https://www.cedar.net.au
+By David Cedar https://www.cedar.net.au/using-python-and-common-crawl-to-find-products-from-amazon-com/
 
 # Install
    boto3: https://github.com/boto/boto3. Make sure to add AWS Credentials on our machine, see docs.
